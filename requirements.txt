@@ -1,6 +1,8 @@
 streamlit
-langchain-community
-langchain-core
-faiss-cpu
-sentence-transformers
-groq
+langchain-community==0.4
+langchain-core==1.1.0
+faiss-cpu==1.13.0
+sentence-transformers==5.1.2
+groq==1.1.2
+beautifulsoup4
+requests==2.33.0
